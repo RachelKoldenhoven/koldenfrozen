@@ -1,0 +1,14 @@
+@use "react-md" as *;
+
+// this will include all the styles from react-md
+@include react-md-utils;
+
+.main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.link {
+    text-decoration: none;
+}

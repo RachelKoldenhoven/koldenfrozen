@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import { Typography, Button } from 'react-md';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+    <div className="main">
+      <Typography type="headline-4">Rachel Koldenhoven</Typography>
+      <Button>
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href={require('./assets/koldenhoven-resume.pdf')}
+          download="koldenhoven-rachel"
+          className="link"
         >
-          Learn React
+          Download Resume
         </a>
-      </header>
+      </Button>
     </div>
   );
 }
