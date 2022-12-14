@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/koldenfrozen/static/css/main.f4df49e7.css",
+    "main.js": "/koldenfrozen/static/js/main.3dcb9f3d.js",
+    "static/js/787.573fcb03.chunk.js": "/koldenfrozen/static/js/787.573fcb03.chunk.js",
+    "static/media/koldenhoven-resume.pdf": "/koldenfrozen/static/media/koldenhoven-resume.a99a41860b0a584e7dac.pdf",
+    "index.html": "/koldenfrozen/index.html",
+    "main.f4df49e7.css.map": "/koldenfrozen/static/css/main.f4df49e7.css.map",
+    "main.3dcb9f3d.js.map": "/koldenfrozen/static/js/main.3dcb9f3d.js.map",
+    "787.573fcb03.chunk.js.map": "/koldenfrozen/static/js/787.573fcb03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4df49e7.css",
+    "static/js/main.3dcb9f3d.js"
+  ]
+}
